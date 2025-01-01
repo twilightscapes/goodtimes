@@ -1,3 +1,4 @@
-location: Second Place
-quote: Winner $250
+location: '- Second Place'
+quote: Congrats to Winner $250
 image: /images/testimonials/Second Place/image.jpg
+order: 2

@@ -23,19 +23,19 @@ const menuLinks = await getMenuLinks();
 {showHeader && (
   <div id="menu" class="menu header" style="min-height:60px; padding: 2px 100px 2px 0;">
     {showLogo && (
-      <a href="/" aria-current={url.pathname === "/" ? "page" : false} class="relative top-1 px-1">
+      <a href="/" aria-current={url.pathname === "/" ? "page" : false} class="relative top-1 px-1" style="margin-left:10px;">
         {logoImage ? (
           <img 
             src={logoImage}
             alt="Site Logo"
-            class="max-h-[60px] max-w-[140px]"
+            
             loading="eager"
             fetchpriority="high"
-            width="90px"
+            width="180"
             height="60"
           />
         ) : (
-          <span class="text-lg font-bold logotext" style="margin-left:10px;">{siteConfig.author}</span>
+          <span class="text-lg font-bold logotext">{siteConfig.author}</span>
         )}
       </a>
     )}

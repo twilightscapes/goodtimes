@@ -199,7 +199,8 @@ body {
 		color: #fff;
 		padding: 2vh 2vw;
 		border-radius: var(--border-radius);
-		min-width: clamp(55%, 4vw, 400px);
+		/* min-width: clamp(55%, 4vw, 400px); */
+		justify-content: center;
 	  }
 	  
 	  blockquote {
@@ -207,7 +208,7 @@ body {
 		margin: 2vh auto;
 		padding: .5em 10px;
 		position: relative;
-		quotes: """ """ "'" "'";
+		/* quotes: "$" "$" "$" "$"; */
 	  }
 	  
 	  blockquote:after, blockquote:before {
