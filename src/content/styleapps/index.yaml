@@ -1,5 +1,5 @@
 backgroundImage: /images/styleapps/backgroundImage.svg
-siteFont: Orbitron
+siteFont: Righteous
 borderRadius: 10px
 lightBg: rgba(192, 185, 185, 0.57)
 lightAccent2: rgba(0, 0, 0, 1)
@@ -9,7 +9,4 @@ lightHeader: rgba(0, 0, 0, 0.9)
 darkHeader: rgba(0, 0, 0, 0.9)
 lightText: rgba(0, 0, 0, 1)
 darkText: rgba(243, 231, 231, 1)
-customCSS: >-
-  .backimage{ max-height:50vh; margin-top: 20vh; object-fit: contain
-  !important;  opacity:.4 ; } panel{backdrop-filter: blur(0px) !important;
-  -webkit-backdrop-filter: blur(0);}
+customCSS: ' .logotext{font-size:30px !important;} iframe.virtualtour{filter: invert(90%) grayscale(1);}'

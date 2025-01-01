@@ -1,29 +1,27 @@
-showFeature: false
+showFeature: true
 featureImage:
-  src: /images/homepage/featureImage/src.webp
   alt: Become A PIRATE!
 youtube:
   discriminant: false
-cta: Keystatic Cloud Sign Up
 showBioOnHome: true
-showApp: false
+showApp: true
 showHomeGallery: false
 showResume: false
 showPosts: true
 showMore: true
 showFaqOnHome: false
-showTestOnHome: false
-pitch: How It Works
+showTestOnHome: true
 pitch2: Social Media That YOU Control
 pitch3: High Seas Freedom
 featureOrder: .nan
 bioOrder: 2
-appOrder: .nan
+appOrder: 8
 galleryOrder: .nan
 postsOrder: 1
 resumeOrder: .nan
 faqOrder: .nan
-testimonialsOrder: .nan
+testimonialsOrder: 9
 infoblockOrder: .nan
 infoblock2Order: .nan
 infoblock3Order: .nan
+testimonialtitle: Latest Winners

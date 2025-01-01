@@ -1,10 +1,9 @@
-title: Welcome to your web app!
-tagline: Please watch the videos above
+title: Welcome to Good Times!
+tagline: Join us for Free Pool Every Monday
 description: >-
-  These videos are designed to show you how to quickly configure Pirate and how
-  to get everything set up on your new web app. 
-image: /images/bio/image.webp
-subheading: Thank you!
-subcontent: For becoming a pirate!
-cta: Keystatic-admin
-showSocial: true
+  Local friendly Sports Bar, Cold Beer, Specialty Drinks, Jukebox (Touch Tunes),
+  2 Daily Happy Hours, 6 7 foot Diamond Pool Tables, 9 foot Diamond pool table,
+  4 Dart boards, and Good Friends.
+image: /images/bio/image.jpg
+subheading: 'Serving: JJ'
+showSocial: false

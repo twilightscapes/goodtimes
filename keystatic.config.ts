@@ -376,6 +376,8 @@ export default config({
         name: fields.text({ label: 'App Name' }),
         shortName: fields.text({ label: 'Short Name' }),
 
+        location: fields.text({ label: 'Location Map', description: 'Copy the src url from the google maps location share embed section'  }),
+
         divider: fields.empty(),
 
         screenshot: fields.image({
@@ -495,8 +497,8 @@ export default config({
         }),
 
         showApp: fields.checkbox({
-          label: 'Show App Module',
-          description: 'Hide/Show custom App section on the home page',
+          label: 'Show Map Module',
+          description: 'Hide/Show custom map section on the home page - requires the src url from an embeded google map',
           defaultValue: false,
         }),
 
