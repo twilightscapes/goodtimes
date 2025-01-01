@@ -2,26 +2,37 @@ showFeature: true
 featureImage:
   alt: Become A PIRATE!
 youtube:
-  discriminant: false
+  discriminant: true
+  value:
+    url: https://youtu.be/24hNr-VFzKY?si=12s-ibJO-T8zUh4M
+    title: This is how we handle fights
+    controls: false
+    useCustomPlayer: true
+    mute: true
+    loop: true
+    start: 0
+    videoOnly: false
+cta: Contact Us!
 showBioOnHome: true
 showApp: true
 showHomeGallery: false
 showResume: false
 showPosts: true
 showMore: true
-showFaqOnHome: false
+showFaqOnHome: true
 showTestOnHome: true
 pitch2: Social Media That YOU Control
 pitch3: High Seas Freedom
-featureOrder: .nan
+featureOrder: 3
 bioOrder: 2
 appOrder: 8
 galleryOrder: .nan
 postsOrder: 1
 resumeOrder: .nan
-faqOrder: .nan
-testimonialsOrder: 9
+faqOrder: 4
+testimonialsOrder: .nan
 infoblockOrder: .nan
 infoblock2Order: .nan
 infoblock3Order: .nan
+faqsectiontitle: FAQs
 testimonialtitle: Latest Winners
