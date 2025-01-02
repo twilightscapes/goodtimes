@@ -1,14 +1,13 @@
 showRobots: false
-siteUrl: https://pirateweb.org
+siteUrl: https://goodtimesbar.netlify.app/
 name: Good Times
-shortName: PIRATE
+shortName: GoodTimes
 location: >-
   https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3439.498370154426!2d-89.08948842443064!3d30.45031917472172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x889c15f22beef857%3A0x867b9824299e7da9!2sGood%20Times%20Sports%20Bar!5e0!3m2!1sen!2sus!4v1735722499585!5m2!1sen!2sus
-screenshot: /images/pwa/screenshot.png
 description: Become A PIRATE!
 themeColor: rgba(0, 0, 0, 1)
 backgroundColor: rgba(0, 0, 0, 1)
 startUrl: /
 display: standalone
-icon192: /images/pwa/icon192.webp
-icon512: /images/pwa/icon512.webp
+icon192: /images/pwa/icon192.png
+icon512: /images/pwa/icon512.png

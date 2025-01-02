@@ -1,6 +1,5 @@
 showFeature: true
-featureImage:
-  alt: Become A PIRATE!
+featureImage: {}
 youtube:
   discriminant: true
   value:
