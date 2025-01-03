@@ -7,6 +7,6 @@ darkBg: rgba(34, 34, 34, 1)
 darkAccent2: rgba(0, 0, 0, 1)
 lightHeader: rgba(0, 0, 0, 0.9)
 darkHeader: rgba(0, 0, 0, 0.9)
-lightText: rgba(0, 0, 0, 1)
+lightText: rgba(243, 231, 231, 1)
 darkText: rgba(243, 231, 231, 1)
 customCSS: ' .logotext{font-size:30px !important;} iframe.virtualtour{filter: invert(90%) grayscale(1);}'
