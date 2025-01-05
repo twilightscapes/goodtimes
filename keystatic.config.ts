@@ -14,7 +14,7 @@ export default config({
       path: 'src/content/post/*/',
       format: { contentField: 'content' },
       schema: {
-        publishDate: fields.datetime({ label: 'Publish Date' }),
+        publishDate: fields.datetime({ label: 'Publish Date', validation: { isRequired: true } }),
         title: fields.slug({ name: { label: 'Title' } }),
         description: fields.text({ label: 'Description', validation: { length: { min: 50, max: 160 } } }),
         draft: fields.checkbox({ label: 'Draft', defaultValue: false }),
