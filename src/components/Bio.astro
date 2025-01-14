@@ -36,11 +36,11 @@ const formattedDescription = (bioContent.data.description ?? '').replace(/\n/g, 
           {bioContent.data.image && (
             <Image
               src={bioContent.data.image}
-              loading="lazy"
+              // loading="lazy"
               alt={`${bioContent.data.name ?? 'User Photo'} Image`}
-              width={450}
-              height={450}
-              class="max-h-[50vh] relative object-contain mx-auto"
+              width={250}
+              height={250}
+              class="max-h-[30vh] relative object-contain mx-auto"
             />
           )}
 
@@ -64,6 +64,7 @@ const formattedDescription = (bioContent.data.description ?? '').replace(/\n/g, 
                   description={cta.data.description || ''}
                   ctaUrl={cta.data.ctaUrl}
                   showFancy={cta.data.showFancy}
+                  showTransition={cta.data.showTransition}
                 />
               )}
         </div>
