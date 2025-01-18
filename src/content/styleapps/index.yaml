@@ -9,4 +9,11 @@ lightHeader: rgba(0, 0, 0, 0.9)
 darkHeader: rgba(0, 0, 0, 0.9)
 lightText: rgba(243, 231, 231, 1)
 darkText: rgba(243, 231, 231, 1)
-customCSS: ' .logotext{font-size:30px !important;} iframe.virtualtour{filter: invert(90%) grayscale(1);}'
+customCSS: >-
+  iframe.virtualtour{filter: invert(90%) grayscale(1);} .headerlogo { 
+  height:60px; width:239px;}
+
+  .profile{max-height:60vh !important;} #menu{position:-webkit-sticky
+  !important; position:sticky
+      !important;} #profile img{max-height:60vh !important;
+      max-width:1000px; width:90%;} .featured img{opacity:.95;}
