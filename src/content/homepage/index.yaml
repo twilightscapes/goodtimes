@@ -1,31 +1,19 @@
-featureImage: {}
-youtube:
-  discriminant: true
-  value:
-    url: https://youtu.be/24hNr-VFzKY?si=12s-ibJO-T8zUh4M
-    title: This is how we handle fights
-    controls: false
-    useCustomPlayer: true
-    mute: true
-    loop: true
-    start: 0
-    videoOnly: false
-cta: Contact Us!
-showMore: false
-pitch: Fully stocked bar
-pitch2: Always a good time at Good Times!
-pitch3: High Seas Freedom
 sectionOrdering:
   - posts
   - bio
   - infoblock1
   - infoblock2
-  - infoblock3
   - faq
-  - resume
-  - feature
-  - gallery
-  - testimonials
+  - infoblock3
   - app
+  - testimonials
+featureImage: {}
+youtube:
+  discriminant: false
+showMore: false
+cta: Contact Us!
+pitch: Fully stocked bar
+pitch2: Always a good time at Good Times!
+pitch3: High Seas Freedom
 faqsectiontitle: FAQs
 testimonialtitle: Latest Winners
