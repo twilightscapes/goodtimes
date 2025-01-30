@@ -23,16 +23,17 @@ showTestOnHome: false
 pitch: Fully stocked bar
 pitch2: Always a good time at Good Times!
 pitch3: High Seas Freedom
-featureOrder: 1
-bioOrder: 3
-appOrder: 8
-galleryOrder: .nan
-postsOrder: 2
-resumeOrder: .nan
-faqOrder: 4
-testimonialsOrder: .nan
-infoblockOrder: .nan
-infoblock2Order: .nan
-infoblock3Order: .nan
+sectionOrdering:
+  - posts
+  - bio
+  - infoblock1
+  - infoblock2
+  - infoblock3
+  - faq
+  - resume
+  - feature
+  - gallery
+  - testimonials
+  - app
 faqsectiontitle: FAQs
 testimonialtitle: Latest Winners
