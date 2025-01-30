@@ -1,4 +1,3 @@
-showFeature: false
 featureImage: {}
 youtube:
   discriminant: true
@@ -12,14 +11,7 @@ youtube:
     start: 0
     videoOnly: false
 cta: Contact Us!
-showBioOnHome: true
-showApp: true
-showHomeGallery: false
-showResume: false
-showPosts: true
 showMore: false
-showFaqOnHome: true
-showTestOnHome: false
 pitch: Fully stocked bar
 pitch2: Always a good time at Good Times!
 pitch3: High Seas Freedom
